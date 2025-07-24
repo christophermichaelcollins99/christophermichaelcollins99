@@ -1,3 +1,9 @@
+#Projects
+
+No projects are published on this GitHub at the moment - it's brand new!  But please see below for information on what I can do for you as an established data professional.
+
+#About Me
+
 [Connect with me on Linked In](https://www.linkedin.com/in/christophermichaelcollins99/)
 
 Trust an expert.  Using my 18 years of experience creating professional reporting solutions for a Fortune 50 company, I will increase your team’s effectiveness and profitability by showing you opportunities to improve your operational efficiency, your execution strategy, and your human interactions. 
