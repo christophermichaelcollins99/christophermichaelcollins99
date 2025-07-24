@@ -1,8 +1,8 @@
-#Projects
+# Projects
 
 No projects are published on this GitHub at the moment - it's brand new!  But please see below for information on what I can do for you as an established data professional.
 
-#About Me
+# About Me
 
 [Connect with me on Linked In](https://www.linkedin.com/in/christophermichaelcollins99/)
 
