@@ -14,21 +14,21 @@ I bring an empathetic perspective to reporting and will focus on your needs, giv
 
 As an innovator who loves to optimize, I will find better ways for your team to work that will surprise and delight you.
 
-"Where are you based?"
+"Where are you based?"  
 I am based in Jacksonville, Florida, USA and am happy to work in-office or hybrid roles.  I have also performed at a high level for years working remotely.
 
-"How do you make people feel when they work with you?"
+## "How do you make people feel when they work with you?"  
 Leaders see me as a problem solver--someone they give the difficult and complicated projects to, especially when it's on a tight timeline.  They trust me because they know that I am skilled, methodical and thorough, even under pressure.  They are also often surprised at the innovations I create unprompted, which are then implemented throughout the workplace to increase productivity.  
 Peers find me friendly and authentic, often coming to me as a mentor to explain new technologies or help them figure out challenging problems.  Simply put, I help you put down your worries because you can rely on me as a foundational part of your team.
 
-"What 3 things are you best at?"
-1) Learning new skills, especially in technology and software.  
+## "What 3 things are you best at?"  
+1 - Learning new skills, especially in technology and software.    
 First person in my org to learn Trino after we transitioned to that system; afterwards, I was tasked with making a guide on it for my peers.
 
-2) Coming up with ideas that seem obvious in hindsight, but that nobody else on the team has thought of.
+2 - Coming up with ideas that seem obvious in hindsight, but that nobody else on the team has thought of.  
 "Why are we manually inputting our brand colors when we can create an Office theme file?"  "What if we created a report that showed sales agents what the top 5% of salespeople were doing so everyone could imitate that success?"
 
-3) Reporting and data visualization.
+3 - Reporting and data visualization.  
 The past 18 years of my career focused on building SQL databases and queries to drive on-demand and ad hoc business reporting for sales.  When I wasn't doing that, I was building web and desktop apps to support operations.
 
 
