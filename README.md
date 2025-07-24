@@ -18,7 +18,8 @@ As an innovator who loves to optimize, I will find better ways for your team to 
 I am based in Jacksonville, Florida, USA and am happy to work in-office or hybrid roles.  I have also performed at a high level for years working remotely.
 
 ## "How do you make people feel when they work with you?"  
-Leaders see me as a problem solver--someone they give the difficult and complicated projects to, especially when it's on a tight timeline.  They trust me because they know that I am skilled, methodical and thorough, even under pressure.  They are also often surprised at the innovations I create unprompted, which are then implemented throughout the workplace to increase productivity.  
+Leaders see me as a problem solver--someone they give the difficult and complicated projects to, especially when it's on a tight timeline.  They trust me because they know that I am skilled, methodical and thorough, even under pressure.  They are also often surprised at the innovations I create unprompted, which are then implemented throughout the workplace to increase productivity.    
+  
 Peers find me friendly and authentic, often coming to me as a mentor to explain new technologies or help them figure out challenging problems.  Simply put, I help you put down your worries because you can rely on me as a foundational part of your team.
 
 ## "What 3 things are you best at?"  
