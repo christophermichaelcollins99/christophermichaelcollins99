@@ -1,6 +1,8 @@
 # Projects
 
-No projects are published on this GitHub at the moment - it's brand new!  But please see below for information on what I can do for you as an established data professional.
+- NEW! [United States Census "Household Pulse" Survey Data ETL (Python)](https://github.com/christophermichaelcollins99/CMC_CensusDataImport_Python)
+
+If you are interested in any of this work, please see below for information on what I can do for you as an established data professional.
 
 # About Me
 
