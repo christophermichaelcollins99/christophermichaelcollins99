@@ -1,7 +1,9 @@
 # Projects
 
-- NEW! ["How do we learn most effectively?"  Psychology Data Visualization & Results](https://github.com/christophermichaelcollins99/CMC_Learning_DataViz)
-- NEW! [United States Census "Household Pulse" Survey Data ETL & Data Visualization](https://github.com/christophermichaelcollins99/CMC_CensusDataImport_Python)
+
+**How does Illinois compare to the US on Household Issues?**
+[United States Census "Household Pulse" Survey Data ETL & Data Visualization](https://github.com/christophermichaelcollins99/CMC_CensusDataImport_Python)
+(Python, Power BI) - 2025 July
 
 If you are interested in any of this work, please see below for information on what I can do for you as an established data professional.
 
